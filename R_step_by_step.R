@@ -181,6 +181,12 @@ whatisthis <- function(xx){
 
 #+ df_explore
 
+# functions ----
 
+# importing data ----
+
+# dplyr ----
+
+# ggplot2 ----
 
 
